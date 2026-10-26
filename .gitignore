@@ -1,2 +1,5 @@
-.idea
-target
+target/
+.idea/
+*.iml
+.vscode/
+*.swp
